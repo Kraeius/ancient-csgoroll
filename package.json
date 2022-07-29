@@ -1,0 +1,22 @@
+{
+  "name": "ancient-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kraeius/ancient-csgoroll.git"
+  },
+  "author": "Orkun Hirlas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kraeius/ancient-csgoroll/issues"
+  },
+  "homepage": "https://github.com/Kraeius/ancient-csgoroll#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
